@@ -1,4 +1,5 @@
 # Team-1
+HEAD
 Structurally Differentiated Energy Transition Trajectories across Central and Eastern Europe
 
 Authors: Mihai Iacob, Cosmin Osaci, Ariana Vlaicu, Ioana Zaharie
@@ -136,4 +137,14 @@ https://doi.org/10.1016/S0301-4215(00)00070-7
 Unruh, G. C. (2006). Path dependence and energy systems. In C. Cleveland (Ed.), Encyclopedia of energy (Vol. 4, pp. 365–372). Elsevier.
 Vagnini, L., Musolesi, A., & Piras, G. (2025). Spatial dynamics and convergence of industrial carbon emissions across European regions. Journal of Cleaner Production. Advance online publication.
 https://doi.org/10.1016/j.jenvman.2025.126466
+=======
+Team 1 Server Project
+
+
+## Regional Carbon Intensity & Industrial Dependency in CEE
+### Overview
+This project investigates how regional manufacturing emissions evolve across Central and Eastern Europe (CEE) and explores how these patterns relate to industrial dependency, FDI-led restructuring, and differences in energy systems.
+Using newly available NUTS-2 regional emissions data (1990–2023), we aim to identify distinct decarbonisation profiles across regions and understand why some remain more carbon-intensive than others.
+The project combines data-driven regional typologies with structural explanatory variables to produce a comparative account of carbon lock-in across CEE.
+ origin/main
 
